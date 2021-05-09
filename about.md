@@ -1,11 +1,12 @@
 ---
 layout: default
+
 title: About Gulabi Sambad
-color: yellow
+color: peachpuff
 h1: Gulabi Sambad
 ---
 
-# This is {{ page.h1 }}
+# This is {{ page.h1 }} 
 
 ## This is and h2
 
